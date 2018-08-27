@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I'm Diego.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am a software engineer at [wearejh](https://wearejh.com/). Working mostly in Magento using the PHP programming language.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I love reading and writing about software and programming languages. When I am not writing code, you can probably find me playing tennis.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Find me on [LinkedIn](https://www.linkedin.com/in/dcabrejas/) 
