@@ -99,7 +99,7 @@ Right, so let's see an example of Product types in Haskell:
 
 {% highlight haskell %}
 
-data TrafficLight = Bool State
+data TrafficLight = TrafficLight Bool State
 
 {% endhighlight %}
 
