@@ -25,7 +25,9 @@ show_excerpts: true
 
 # Build settings
 markdown: kramdown
+mathjax: true
 theme: minima
+google_analytics: UA-111373103-2
 plugins:
   - jekyll-feed
 
