@@ -6,8 +6,12 @@ permalink: /about/
 
 Hi, I'm Diego.
 
-I am a software engineer at [wearejh](https://wearejh.com/). Working mostly in Magento using the PHP programming language.
+I am a Lead Software Engineer. Working mostly with Magento using the PHP programming language.
 
-I love reading and writing about software and programming languages. When I am not writing code, you can probably find me playing tennis.
+I am interested in most things related to Computer Science. 
 
-Find me on [LinkedIn](https://www.linkedin.com/in/dcabrejas/) 
+I will try to blog about things I find interesting and feel like could help other peple learn.
+
+Find me on [Twitter](https://twitter.com/dicabrejas)
+Find me on [Github](https://github.com/dcabrejas)
+Find me on [LinkedIn](https://www.linkedin.com/in/dcabrejas/)
